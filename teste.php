@@ -1,1 +1,3 @@
-<?php print "Teste"; ?>
+<?php print "Teste"; 
+  phpinfo();
+?>
