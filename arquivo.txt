@@ -2,4 +2,10 @@ Olá Mundo.
 
 Nova linha
 
+<<<<<<< HEAD
 Alterado.
+=======
+Alterado
+
+Alterado novamente para avaliar o merge
+>>>>>>> funcionalidade1
